@@ -1,10 +1,10 @@
 import React from 'react'
-import Input from '../../COMPONENTS/input/Input'
-import Pdf from '../../COMPONENTS/pdf/Pdf'
+import Topbar from '../../COMPONENTS/topbar/Topbar'
+//import Input from '../../COMPONENTS/input/Input'
+//import Pdf from '../../COMPONENTS/pdf/Pdf'
 
 export default function Home() {
   return (
-    <Pdf />
-
+    <Topbar />
   )
 }
